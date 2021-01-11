@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
-//#include <crypt.h>
+#include <crypt.h>
 #include <unistd.h>
 /******************************************************************************
   This program is used to set challenges for password cracking programs.
