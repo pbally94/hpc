@@ -61,7 +61,7 @@ void crack(char *salt_and_encrypted){
   }
 }
 
-int main2(int argc, char *argv[]){
+int main(int argc, char *argv[]){
   crack(".......");		//Copy and Paste your ecrypted password here using EncryptShA512 program
   printf("%d solutions explored\n", count);
 
